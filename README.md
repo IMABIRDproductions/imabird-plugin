@@ -9,7 +9,7 @@ Create a key with **Agent MCP** access at https://www.imabird.productions/api. T
 ## Claude Code
 
 ```bash
-claude plugin marketplace add LasseSander/imabird-plugin
+claude plugin marketplace add IMABIRDproductions/imabird-plugin
 claude plugin install imabird@imabird
 ```
 
@@ -18,7 +18,7 @@ Enter the key when asked, or later with `/plugin configure imabird@imabird`.
 ## Codex
 
 ```bash
-codex plugin marketplace add LasseSander/imabird-plugin
+codex plugin marketplace add IMABIRDproductions/imabird-plugin
 ```
 
 Install **IMABIRD** from the Plugins directory and enter the key in its connection setup.

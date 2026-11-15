@@ -7,7 +7,7 @@
     "url": "https://www.imabird.productions"
   },
   "homepage": "https://www.imabird.productions/api",
-  "repository": "https://github.com/LasseSander/imabird-plugin",
+  "repository": "https://github.com/IMABIRDproductions/imabird-plugin",
   "license": "MIT",
   "keywords": ["video", "video-editing", "short-form", "captions", "motion-graphics", "mcp"],
   "userConfig": {
